@@ -1,0 +1,12 @@
+@charset "utf-8";
+body {
+    background-color: #FFF83F;
+}
+h1 {
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+table {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #32C04F;
+}
